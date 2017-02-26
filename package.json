@@ -1,0 +1,32 @@
+{
+  "name": "spotisearch",
+  "version": "1.0.0",
+  "description": "search artist and albums in spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jepz20/spotisearch.git"
+  },
+  "keywords": [
+    "spotify",
+    "progressive",
+    "search",
+    "jep"
+  ],
+  "author": "Jose Perdomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jepz20/spotisearch/issues"
+  },
+  "homepage": "https://github.com/jepz20/spotisearch#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}

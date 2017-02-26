@@ -1,0 +1,1 @@
+webpackJsonp([0,1],[function(o,n){console.log("Hola mundo")}],[0]);
